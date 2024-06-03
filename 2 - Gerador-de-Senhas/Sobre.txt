@@ -1,0 +1,7 @@
+Sobre o Projeto
+- Desing
+- HTML semântico
+- Eventos
+- API do navegador
+- JavaScript nativo (vanilla)
+- Extensão VSCode
