@@ -5,3 +5,10 @@ Projetos em Desenvolvimento
 Site E-commerce: Um site de comércio eletrônico completo com design responsivo e funcionalidades de compra.
 Site Gamer: Um portal dedicado a notícias e atualizações do mundo dos games, com uma interface moderna e atraente.
 Explore os projetos, dê estrelas aos que você mais gostar e fique à vontade para contribuir ou deixar sugestões.
+
+Você pode ver o resultado acessando os links abaixo 
+
+https://levyherc.github.io/Projetos/site-ecommerce
+
+https://levyherc.github.io/Projetos/sitegamer
+
